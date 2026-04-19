@@ -1,0 +1,20 @@
+{"instruction": "Di hola en español.", "output": "¡Hola! ¿Cómo estás?"}
+{"instruction": "¿Cuál es la capital de Francia?", "output": "La capital de Francia es París."}
+{"instruction": "Escribe un poema sobre el mar.", "output": "El mar es azul y profundo, un misterio para todo el mundo."}
+{"instruction": "¿Cuánto es 2+2?", "output": "2 + 2 es igual a 4."}
+{"instruction": "¿Quién escribió el Quijote?", "output": "Miguel de Cervantes escribió Don Quijote de la Mancha."}
+{"instruction": "Dame un consejo para programar mejor.", "output": "Escribe código limpio y fácil de leer. Usa comentarios solo cuando sea necesario."}
+{"instruction": "¿Qué es la gravedad?", "output": "Es la fuerza que atrae a los objetos hacia el centro de la Tierra."}
+{"instruction": "Dime un chiste corto.", "output": "¿Qué le dice un código a otro? ¡Qué mala compilación tenemos!"}
+{"instruction": "Traduce 'apple' al español.", "output": "La traducción de 'apple' es manzana."}
+{"instruction": "¿Cuál es el planeta más grande?", "output": "Júpiter es el planeta más grande del sistema solar."}
+{"instruction": "¿Qué hace un tokenizador?", "output": "Convierte texto en números para que la red neuronal pueda procesarlo."}
+{"instruction": "¿De qué color es el cielo despejado?", "output": "El cielo despejado es de color azul."}
+{"instruction": "Nombra tres animales.", "output": "Perro, gato y elefante."}
+{"instruction": "¿Cómo se dice 'adiós' en inglés?", "output": "Se dice 'goodbye'."}
+{"instruction": "Resumen de la fotosíntesis.", "output": "Las plantas usan la luz del sol para convertir CO2 y agua en oxígeno y energía."}
+{"instruction": "¿Cuántos días tiene un año bisiesto?", "output": "Un año bisiesto tiene 366 días."}
+{"instruction": "¿Cuál es la moneda de Japón?", "output": "La moneda oficial de Japón es el yen."}
+{"instruction": "Dime tu nombre.", "output": "Soy tu asistente de inteligencia artificial construido con PyTorch."}
+{"instruction": "¿Para qué sirve PyTorch?", "output": "Es una librería de machine learning enfocada en deep learning y computación con GPUs."}
+{"instruction": "Escribe una frase motivacional.", "output": "El único límite para nuestros logros de mañana son nuestras dudas de hoy."}
